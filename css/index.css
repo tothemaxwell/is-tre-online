@@ -1,0 +1,45 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #2F3235;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+#wrapper {
+  height: 100%;
+  text-align: center;
+  color: white;
+  padding: 30px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+#big-message {
+  margin-bottom: 30px;
+  font-size: 56px;
+  font-weight: bold;
+}
+
+#more-info {
+  font-size: 16px;
+}
+
+#footer {
+  color: #ABADAE;
+  position: absolute;
+  right: 30px;
+  left: 30px;
+  bottom: 20px;
+  font-size: 12px;
+}
+
+#footer a {
+  color: white;
+}
